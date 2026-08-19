@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi👋 I'm Jadon Chan 
+
+About me
+I am a software engineering undergraduate at Monash University Malaysia.
+Interested in software development.
+
+🛠️ Technologies
+Python • Java • JavaScript • React • Node.js • SQL • Docker
 
 <!--
 **jadonchan1/jadonchan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
