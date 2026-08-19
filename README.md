@@ -7,6 +7,7 @@ Interested in full stack web development, data analytics and AI.
 ## 🛠️ Technologies
 **Languages**: Python, JavaScript, Java  
 **Frameworks**: React, Django, Node.js  
+**Databases**: PosgreSQL, MongoDB  
 **Tools**: Git, Docker  
-**Databases**: PosgreSQL, MongoDB
+
 
